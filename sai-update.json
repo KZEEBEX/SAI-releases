@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "channel": "production",
+  "version": "1.23.6",
+  "package": "SAI_bridge_1_23_5_to_1_23_6.zip",
+  "size": 10737491,
+  "sha256": "5854ae31c0e80d18a68166ac828fd844ae6ef1eecdabb21ec9ba4b3449e74668"
+}
